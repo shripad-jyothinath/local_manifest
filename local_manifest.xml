@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote  name="shripad"
+           fetch="https://github.com/shripad-jyothinath"
+           
+   <!-- Device Tree -->
+  <project path="device/xiaomi/spes" name="device_xiaomi_spes" remote="shripad" revision="Rising"/>
+  
+  <!-- Everything else will sync on it's own -->          
+  
+</manifest>  
